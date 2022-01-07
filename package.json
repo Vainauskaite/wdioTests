@@ -10,7 +10,7 @@
         "chromedriver": "^96.0.0",
         "ts-node": "^10.4.0",
         "typescript": "^4.5.4",
-        "wdio-chromedriver-service": "^7.2.3"
+        "wdio-chromedriver-service": "^7.2.6"
     },
     "scripts": {
         "wdio": "wdio run wdio.conf.ts"
